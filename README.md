@@ -1,2 +1,2 @@
 # nyc-taxis-tips
- Tips prediction for a cab ride
+ Tips prediction for a cab ride.
